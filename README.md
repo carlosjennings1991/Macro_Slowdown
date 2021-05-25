@@ -58,9 +58,11 @@ ___
 
 ### Workforce Growth
 
-Understanding the connection between population growth and economic growth cannot overlook the size of the workforce. Generally speaking, the workforce is able-bodied men and women between 18 and 65 years of age, who are not in school. These are the people earning and most importantly  * **spending** * a paycheck. 
+Understanding the connection between population growth and economic growth cannot overlook the size of the workforce. Generally speaking, the workforce is able-bodied men and women between 18 and 65 years of age, who are not in school. These are the people earning and most importantly  ***spending*** a paycheck. 
 
 Below, we can see the 5 year rolling average of the yearly growth of the US workforce. 
+
+##
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_rate.png" width="591" height="345">
 
