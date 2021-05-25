@@ -62,7 +62,7 @@ Understanding the connection between population growth and economic growth canno
 
 Below, we can see the 5 year rolling average of the yearly growth of the US workforce. 
 
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_rate.png>
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_rate.png">
 
 ___
 
