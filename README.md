@@ -52,6 +52,8 @@ Of course, people have kids or immigrate because they believe they can support t
 Given the nature of economic cycles, this above chart is a little difficult to read, so let's see the above chart but with trendlines for both growth rates. 
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Econ_Growth_with_trendlines.png" width="738" height="345">
+
+As we can see above, as economic growth has declined, so has population growth. The extent to which this is a causal loop is unknown, and there are many factors causing both, but there is undoubtedly a connection between the two. 
 ___
 
 ### Workforce Growth
