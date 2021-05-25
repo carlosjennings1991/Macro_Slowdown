@@ -7,6 +7,8 @@ Land, labor, capital, and entrepreneurship. Those are the four pillars of econom
 *Land, labor, capital, and entrepreneurship. Our four ingredients to the economic stew*
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/the_four_horsemen%20copy.png">
+
 ___
+
 
 
