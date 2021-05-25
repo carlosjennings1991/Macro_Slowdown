@@ -10,28 +10,28 @@ Land, labor, capital, and entrepreneurship. Those are the four pillars of econom
 
 ___
 
-## Sources: 
+### Sources: 
 
 Source Data Here - 
 <br>
 Analysis & Charts Here - 
 ___
 
-## Tools Used: 
+### Tools Used: 
 
 ___
 
-## Population Growth
+### Population Growth
 
 ___
 
-## Workforce Growth
+### Workforce Growth
 
 ___
 
-## Labor Force Participation
+### Labor Force Participation
 
 ___
 
-## Real Growth Rates
+### Real Growth Rates
 
