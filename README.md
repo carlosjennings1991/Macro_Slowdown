@@ -32,6 +32,12 @@ ___
 The increase in US population has more than doubled since 1950, albeit with some decades greatly exceeding the growth of others. This story is a mix of two factors, natural increase (births exceeding deaths) and immigration. First, lets look at the the yearly growth rates since 1950. 
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Pop_Growth_Rate.png">
+
+As we can see, growth rates tend to be higher on the left side of the chart, i.e the 1950s and 1960s. There's a notable uptick in growth rates in the beginning of the 1990's but this is followed by a return to the general downward trend. 
+
+Next, lets look at how the growth rate compares to the US fertility rate, which is simply a measure of how many children an American woman can expect to have in her lifetime. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Pop_Growth_vs_Fertility_Rate.png">
 ___
 
 ### Workforce Growth
