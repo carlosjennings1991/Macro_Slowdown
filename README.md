@@ -19,6 +19,10 @@ ___
 
 ### Tools Used: 
 
+- [x] Excel
+- [x] Pandas
+- [x] PostgreSQL
+- [x] Tableau
 ___
 
 ### Population Growth
