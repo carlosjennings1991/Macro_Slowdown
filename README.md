@@ -40,6 +40,8 @@ Next, lets look at how the growth rate compares to the US fertility rate, which 
 ##
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Fertility_Rate.png" width="630" height="345">
+
+We can see that the high growth rates of the 1950's and early/mid 1960's are closely mirrored by high fertility rates during this time. 
 ___
 
 ### Workforce Growth
