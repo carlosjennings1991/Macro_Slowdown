@@ -43,7 +43,7 @@ Next, lets look at how the growth rate compares to the US fertility rate, which 
 
 We can see that the high growth rates of the 1950's and early/mid 1960's are closely mirrored by high fertility rates during this time. While there is a modest rebound in fertility rates from 1983 to 2007 (1.80 to 2.12), the major source of growth during this period (especially the 1990's) comes from immigration. 
 
-Of course, people have kids or immigrate because they believe they can support that child. So let's look at the population growth rates vs economic growth rates
+Of course, people have kids because they believe they can support that child. Besides asylum seekers, people immigrate for economic reasons. So let's look at the population growth rates vs economic growth rates
 
 ##
 
