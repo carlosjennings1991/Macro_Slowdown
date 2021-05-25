@@ -37,7 +37,7 @@ As we can see, growth rates tend to be higher on the left side of the chart, i.e
 
 Next, lets look at how the growth rate compares to the US fertility rate, which is simply a measure of how many children an American woman can expect to have in her lifetime. 
 
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Fertility_Rate.png">
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Fertility_Rate.png" width="1200" height="658">
 ___
 
 ### Workforce Growth
