@@ -73,6 +73,15 @@ Now lets see how this compares to the fertility rate.
 ##
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_fertility.png" width="591" height="345">
+
+The above chart tells us three unique stories. 
+
+1. The baby-boomers, those born in the high-fertility era from the late 40's to early 60's, caused the workforce to dramatically increase when they entered the job market.
+
+2. Women of multiple generations, not just female Baby-Boomers, entered the workforce beginning in the mid-sixties, a trend which continued up until the mid-eighties when that previously untapped supply of workers ran dry. 
+
+3. While the Baby-Boomers grew up in large families, they had fewer kids than their parents. So naturally, workforce growth rates would be smaller when the children of the Baby-Boomers (the Millenials) enter the workforce. 
+
 ___
 
 ### Labor Force Participation
