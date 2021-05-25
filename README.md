@@ -4,7 +4,7 @@ Exploring the connection between workforce growth, population growth, economic g
 
 Land, labor, capital, and entrepreneurship. Those are the four pillars of economic growth. While economic crises come and go, the underlying inputs remain the same. With this study, we're going to explore how population colors the economic picture. We attempt to understand its ebbs and flows, how that affected our economic past, and what it tells us about our economic future. 
 
-*Land, labor, capital, and entrepreneurship. Our four ingredients to the economic stew.*
+*Land, labor, capital, and entrepreneurship. The ingredients of our economic stew.*
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/the_four_horsemen%20copy.png">
 
@@ -49,6 +49,9 @@ Of course, people have kids or immigrate because they believe they can support t
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Econ_Growth.png" width="738" height="345">
 
+Given the nature of economic cycles, this above chart is a little difficult to read, so let's see the above chart but with trendlines for both growth rates. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Growth_vs_Econ_Growth_with_trendlines.png" width="738" height="345">
 ___
 
 ### Workforce Growth
