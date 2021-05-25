@@ -29,6 +29,9 @@ ___
 
 ### Population Growth
 
+The increase in US population has more than doubled since 1950, albeit with some decades greatly exceeding the growth of others. This story is a mix of two factors, natural increase (births exceeding deaths) and immigration. First, lets look at the the yearly growth rates since 1950. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Pop_Growth_Rate.png">
 ___
 
 ### Workforce Growth
