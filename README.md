@@ -68,6 +68,11 @@ Below, we can see the 5 year rolling average of the yearly growth of the US work
 
 As we can see, there is an upward trend, peaking in the late seventies, and a downward trend thereafter. Growth levels are particularly high between the late-sixies to early-eighties, were growth rates remain above 2 percent per year. 
 
+Now lets see how this compares to the fertility rate. 
+
+##
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_rate_with_fertility.png" width="591" height="345">
 ___
 
 ### Labor Force Participation
