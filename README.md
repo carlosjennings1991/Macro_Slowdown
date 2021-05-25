@@ -72,7 +72,7 @@ Now lets see how this compares to the fertility rate.
 
 ##
 
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_rate_with_fertility.png" width="591" height="345">
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/workforce_growth_fertility.png" width="591" height="345">
 ___
 
 ### Labor Force Participation
