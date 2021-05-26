@@ -104,6 +104,10 @@ Now let's see what, if any, correlation there is between economic growth and lab
 
 YoY growth rates can be erratic, so those are represented by the highly opaque red line in the background. The solid red line shows the 1950-2020 trendline, which is slowly decreasing. At first once might conclude that there is no correlation between growth rates and labor-force participation rates. 
 
+However, that isn't quite true. Before women joined the work-force starting in the mid-sixties and after that process had completed by the mid-eighties economic downturns *do* correlate with decreases in the participation rate. For instance, the 1949, 1954, 1957, 1961, and 1971 recessions do show a dip in participation. 
+
+Despite, the 1974-75 and early 1980's recessions being particularly severe (especially on Manufacturing), participation rates don't budge - but they don't increase either. Those deep recessions temporarily halt the increase in the participation rate. There is a reason for this, those recessions primarily affected men, leaving women who were primarily entering the service industry to continue to push up the participation rate. 
+
 ___
 
 ### Real Growth Rates
