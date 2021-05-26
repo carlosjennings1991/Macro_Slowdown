@@ -175,10 +175,14 @@ However, automation is expensive. A business automates because of two things 1.)
 
 Declining demographics impact both of those points. A business can secure capital to invest in automation because capital is plentiful, at the moment. Capital is typically generated from savings. Who saves? People at the height of their earning potential, which is typically the years before retirement. A simple rule of thumb is that young workers consume, middle-aged workers produce, older workers invest. It's the investment of older workers which has created an oversupply of capital in the world economy. Why is this? It's because older workers need to save for retirement. The closer one approaches retirement, the more one saves for retirement. When the population has a lot of people (Baby Boomers) on the verge of retirement relative to the overall population, you get an oversupply of capital. That capital needs something to invest in to get a return. 
 
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/retiring_baby_boomers.jpeg">
+
 However, this flips the day that person actually retires. Instead of generating an excess of capital, that person is now drawing down capital. When do people retire? Usually in their mid-sixties. That means by the mid 2020's, most baby boomers will have retired. We will go from capital over-supply, to capital under-supply. This means the price of money will increase. This means business will typically have a harder time getting the money to invest in automation. Automation would have to become dramatically less expensive for it to continue at the same rate it has in the past few decades.
 
 Less customers spurring less demand will surely prompt cost-cutting measures from businesses. However, automation only saves money in the long-term. It's very expensive up front. Furthermore, the more physical items automation touches in the production process, the more expensive it is. This is why manufacturing automation is very expensive. Conversely, automating service industry jobs with few physical inputs will be the automation of the future. 
 
 While the economic adjustment will be painful in the near to medium term, it will be beneficial for the typical worker in the long run. With less people around, the relative worth of each person increases. With less capital available for automtion, the average workers will have less to fear about losing their job (at least to automation), they might lose their job to lack of demand. 
 
-This may sound dire, but I'm cautiously optimistic. 
+This may sound dire, but I'm cautiously optimistic and you should be too. 
+
+When the black death killed 1/3rd of Europe in the middle part of the 14th Century, average incomes ***rose*** substantially for the average person. It was the nobility, the landlords who suffered economically. All of the sudden, the survivors of the calamity had a lot more bargaining power. 
