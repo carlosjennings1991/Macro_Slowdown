@@ -190,3 +190,7 @@ While the economic adjustment will be painful in the near to medium term, it wil
 This may sound dire, but I'm cautiously optimistic and you should be too. 
 
 When the black death killed 1/3rd of Europe in the middle part of the 14th Century, average incomes ***rose*** substantially for the average person. It was the nobility, the landlords who suffered economically. All of the sudden, the survivors of the calamity had a lot more bargaining power. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/black_death_and_cash.png">
+
+So for
