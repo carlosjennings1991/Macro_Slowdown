@@ -155,3 +155,30 @@ ___
 
 ## Predictions
 
+**1. Workforce Growth Rate will continue to decline, even going negative in the 2020's.**
+This is due to a smaller cohort of people entering the workforce (Gen Z) and a larger cohort leaving it (Baby Boomers). 
+
+**2. Workforce as a percentage of the population will decline.**
+While it's unlikely we'll see a ratio as low as 0.38 to 1, since that figure was at the height of the baby boom, were there were lots of children who weren't working, we'll see a figure in the mid-40's by the middle of this decade. 
+
+**3. Economic Growth will be productivity driven, not population driven.**
+Women entering the workforce and baby boomers entering the workforce *at the same time* definitely lifted growth. Coupled with large-scale immigration after 1965, and you have a triple-whammy of forces positively effecting the economy. However, an economy cannot rely on this sort of growth in the long run. 
+
+Future growth will be dependent on productivity growth since all sources of workforce growth have been spent. Even immigration will be less of a factor, as most immigrant-sending countries (Mexico, India, China, etc) experienced baby-busts not long after the United States. 
+
+**4. It'll get worse before it gets better**
+A declining population means fewer customers for most businesses. Fewer customers = layoffs, business closures, debt defaults. This is how you get a deflationary spiral.
+
+Secondly, fewer customers will prompt many businesses to automate, putting more people out of work. Of course, this is bad for those laid-off workers, and we actually have a terrible track-record of retraining people for new careers. 
+
+However, automation is expensive. A business automates because of two things 1.) They believe they can save money in th long-run, and 2.) There will be sufficient demand in the future. 
+
+Declining demographics impact both of those points. A business can secure capital to invest in automation because capital is plentiful, at the moment. Capital is typically generated from savings. Who saves? People at the height of their earning potential, which is typically the years before retirement. A simple rule of thumb is that young workers consume, middle-aged workers produce, older workers invest. It's the investment of older workers which has created an oversupply of capital in the world economy. Why is this? It's because older workers need to save for retirement. The closer one approaches retirement, the more one saves for retirement. When the population has a lot of people (Baby Boomers) on the verge of retirement relative to the overall population, you get an oversupply of capital. That capital needs something to invest in to get a return. 
+
+However, this flips the day that person actually retires. Instead of generating an excess of capital, that person is now drawing down capital. When do people retire? Usually in their mid-sixties. That means by the mid 2020's, most baby boomers will have retired. We will go from capital over-supply, to capital under-supply. This means the price of money will increase. This means business will typically have a harder time getting the money to invest in automation. Automation would have to become dramatically less expensive for it to continue at the same rate it has in the past few decades.
+
+Less customers spurring less demand will surely prompt cost-cutting measures from businesses. However, automation only saves money in the long-term. It's very expensive up front. Furthermore, the more physical items automation touches in the production process, the more expensive it is. This is why manufacturing automation is very expensive. Conversely, automating service industry jobs with few physical inputs will be the automation of the future. 
+
+While the economic adjustment will be painful in the near to medium term, it will be beneficial for the typical worker in the long run. With less people around, the relative worth of each person increases. With less capital available for automtion, the average workers will have less to fear about losing their job (at least to automation), they might lose their job to lack of demand. 
+
+This may sound dire, but I'm cautiously optimistic. 
