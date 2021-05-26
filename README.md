@@ -112,11 +112,11 @@ Moreover, after the mid-eighties recessions do trigger a decline in labor force 
 
 ##
 
-Moreover, while there was a dramatic upturn in the labor participation rate that was culturally unprecedented in a peace-time setting, it has to be understood in context. The below chart shows overall workforce against the backdrop of the total US population. 
+Interestingly, while there was a dramatic upturn in the labor participation rate that was culturally unprecedented in a peace-time setting, it has to be understood in context. The below chart shows overall workforce against the backdrop of the total US population. 
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Population_and_Workforce.png" width="738" height="345">
 
-With this context, we see the increase in the labor force as a percentage of the overall population looks a but more muted. 
+With this context, we see the increase in the labor force as a percentage of the overall population looks a but more muted. The ratio between workforce to population hits a low in 1959 of 0.38 to 1, it narrows to only 0.51 to 1 in 2000. In fact, it's been essentially flat between 1986 and 2019, oscillating between 0.49 and 0.51 during those years. 
 
 ___
 
