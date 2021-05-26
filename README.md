@@ -145,6 +145,10 @@ From the above we can see that the ratio between workforce growth and overall gd
 #
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/real_growth_with_trendline.png" width="700" height="345">
+
+So what does this tell us? This shows that when factoring for workforce growth rate, the slowdown in real growth is a gentler decline compared to the slowdown in headline gdp growth. Sure, real growth going down from about 2.2% in the 1950's to 0.5% in the 2010's, but so is population and workforce growth.
+
+We can also see that the 1950's were very uneven, the period between 1970 and 1982 basically saw no real growth, and the period between 1983 and 2007 witnessed remarkably consistent real growth. 
 ___
 
 ## Predictions
