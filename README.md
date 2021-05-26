@@ -106,7 +106,9 @@ YoY growth rates can be erratic, so those are represented by the highly opaque r
 
 However, that isn't quite true. Before women joined the work-force starting in the mid-sixties and after that process had completed by the mid-eighties economic downturns *do* correlate with decreases in the participation rate. For instance, the 1949, 1954, 1957, 1961, and 1971 recessions do show a dip in participation. 
 
-Despite, the 1974-75 and early 1980's recessions being particularly severe (especially on Manufacturing), participation rates don't budge - but they don't increase either. Those deep recessions temporarily halt the increase in the participation rate. There is a reason for this, those recessions primarily affected men, leaving women who were primarily entering the service industry to continue to push up the participation rate. 
+Despite the 1974-75 and early 1980's recessions being particularly severe (especially on Manufacturing), participation rates don't budge - but they don't increase either. Those deep recessions temporarily halt the increase in the participation rate. There is a reason for this, those recessions primarily affected men, leaving women who were primarily entering the service industry to continue to push up the participation rate. 
+
+Moreover, after the mid-eighties recessions do trigger a decline in labor force participation. We see slight dips during the early 90's recession, the early 2000's recession, and after 2008. 
 
 ___
 
