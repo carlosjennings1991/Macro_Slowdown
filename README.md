@@ -132,7 +132,7 @@ For starters, lets review the GDP chart below.
 
 #
 
-
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Yearly_Growth_Rates.png" width="738" height="345">
 
 ___
 
