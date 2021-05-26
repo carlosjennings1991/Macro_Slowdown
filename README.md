@@ -90,7 +90,7 @@ It's important to note the difference between labor force participation and work
 
 First things first, let's look at the labor force participation rate over the years. 
 
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/labor_participation_rate.png">
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/labor_participation_rate.png" width="591" height="345">
 
 ___
 
