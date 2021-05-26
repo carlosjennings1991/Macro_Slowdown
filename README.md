@@ -82,6 +82,12 @@ The above chart tells us three unique stories.
 
 3. While the Baby-Boomers grew up in large families, they had fewer kids than their parents. So naturally, workforce growth rates would be smaller when the children of the Baby-Boomers (the Millenials) enter the workforce. 
 
+##
+
+Moreover, while there was a dramatic upturn in the workforce that was culturally unprecedented, it has to be understood in context. The below chart shows overall workforce against the backdrop of the total US population. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Population_and_Workforce.png" width="738" height="345">
+
 ___
 
 ### Labor Force Participation
