@@ -134,6 +134,13 @@ For starters, lets review the GDP chart below.
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Yearly_Growth_Rates.png" width="738" height="345">
 
+We can see that growth tended to be higher before the 1980s, albeit with more frequent recessions. Conversely growth has been lower from the 1980s until now, but with fewer recessions. The red line indicates the overall trend line. 
+
+Now, lets look at the same chart but with the added layer of workforce growth rate. 
+
+#
+
+
 ___
 
 ## Predictions
