@@ -90,7 +90,11 @@ It's important to note the difference between labor force participation and work
 
 First things first, let's look at the labor force participation rate over the years. 
 
+##
+
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/labor_participation_rate.png" width="591" height="345">
+
+As we can see in the above graphic, the participation rate is basically flat until the mid-sixties where it begins to increase. This of course is due to a much larger percentage of women entering the workforce. However, this increse is not as dramatic as the increase in the size of the workforce and peak much later. For instance, labor force participation hits an all-time high of 67.1% in 2000, shortly before the dot-com bubble burst. 
 
 ___
 
