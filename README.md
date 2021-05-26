@@ -96,6 +96,12 @@ First things first, let's look at the labor force participation rate over the ye
 
 As we can see in the above graphic, the participation rate is basically flat until the mid-sixties where it begins to increase. This of course is due to a much larger percentage of women entering the workforce. However, this increse is not as dramatic as the increase in the size of the workforce and peak much later. For instance, labor force participation hits an all-time high of 67.1% in 2000, shortly before the dot-com bubble burst. 
 
+Now let's see what, if any, correlation there is between economic growth and labor force participation
+
+##
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/labor_participation_and_gdp_growth.png" width="738" height="345">
+
 ___
 
 ### Real Growth Rates
