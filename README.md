@@ -108,7 +108,7 @@ However, that isn't quite true. Before women joined the work-force starting in t
 
 Despite the 1974-75 and early 1980's recessions being particularly severe (especially on Manufacturing), participation rates don't budge - but they don't increase either. Those deep recessions temporarily halt the increase in the participation rate. There is a reason for this, those recessions primarily affected men, leaving women who were primarily entering the service industry to continue to push up the participation rate. 
 
-Moreover, after the mid-eighties recessions do trigger a decline in labor force participation. We see slight dips during the early 90's recession, the early 2000's recession, and after 2008. 
+Moreover, after the mid-eighties recessions do trigger a decline in labor force participation. We see slight dips during the early 90's recession, the early 2000's recession, 2008, and the coronavirus-induced lockdown recession of 2020. 
 
 ___
 
