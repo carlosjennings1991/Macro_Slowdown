@@ -82,12 +82,6 @@ The above chart tells us three unique stories.
 
 3. While the Baby-Boomers grew up in large families, they had fewer kids than their parents. So naturally, workforce growth rates would be smaller when the children of the Baby-Boomers (the Millenials) enter the workforce. 
 
-##
-
-Moreover, while there was a dramatic upturn in the workforce that was culturally unprecedented, it has to be understood in context. The below chart shows overall workforce against the backdrop of the total US population. 
-
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Population_and_Workforce.png" width="738" height="345">
-
 ___
 
 ### Labor Force Participation
@@ -115,6 +109,14 @@ However, that isn't quite true. Before women joined the work-force starting in t
 Despite the 1974-75 and early 1980's recessions being particularly severe (especially on Manufacturing), participation rates don't budge - but they don't increase either. Those deep recessions temporarily halt the increase in the participation rate. There is a reason for this, those recessions primarily affected men, leaving women who were primarily entering the service industry to continue to push up the participation rate. 
 
 Moreover, after the mid-eighties recessions do trigger a decline in labor force participation. We see slight dips during the early 90's recession, the early 2000's recession, 2008, and the coronavirus-induced lockdown recession of 2020. 
+
+##
+
+Moreover, while there was a dramatic upturn in the labor participation rate that was culturally unprecedented in a peace-time setting, it has to be understood in context. The below chart shows overall workforce against the backdrop of the total US population. 
+
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/Population_and_Workforce.png" width="738" height="345">
+
+With this context, we see the increase in the labor force as a percentage of the overall population looks a but more muted. 
 
 ___
 
