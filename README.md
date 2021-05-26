@@ -149,6 +149,8 @@ From the above we can see that the ratio between workforce growth and overall gd
 So what does this tell us? This shows that when factoring for workforce growth rate, the slowdown in real growth is a gentler decline compared to the slowdown in headline gdp growth. Sure, real growth going down from about 2.2% in the 1950's to 0.5% in the 2010's, but so is population and workforce growth.
 
 We can also see that the 1950's were very uneven, the period between 1970 and 1982 basically saw no real growth, and the period between 1983 and 2007 witnessed remarkably consistent real growth. 
+
+If this seems like heartening news, keep this in mind - workforce growth *should* be higher. Consequently, real growth *should also* be lower. Since the 1980's millions of working-age, able-bodied people (mostly men) left the workforce. Not only is this a drag on headline growth since those are millions of people not earning and spending a paycheck, but bodes ill for future growth. 
 ___
 
 ## Predictions
