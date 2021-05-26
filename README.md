@@ -122,7 +122,9 @@ ___
 
 ### Real Growth Rates
 
-When und
+Imagine you own a business. How do you grow your business? Easy - get more customers. If you simply attract more customers, you can grow your business without having to do the difficult tasks of innovating or lowering your costs. 
+
+When it comes to a country like the United States, the easiest way to grow an economy is simply to have more people. Most people become workers, and for a country, workers are your customers. 
 
 ___
 
