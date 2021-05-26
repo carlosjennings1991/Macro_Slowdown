@@ -86,6 +86,8 @@ ___
 
 ### Labor Force Participation
 
+It's important to note the difference between labor force participation and workforce. While the workforce is the total number of workers in an economy, the labor force participation rate is the ***percentage of potential workers*** actually working. So those who are temporarily unemployed would *lower* the labor participation rate. Secondly, those who get laid off and give up looking for a new job exit the labor force. These people lower the size of the overall workforce but not the labor force participation rate, so keep that in mind. 
+
 ___
 
 ### Real Growth Rates
