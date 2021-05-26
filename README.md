@@ -144,7 +144,7 @@ Now, lets look at the same chart but with the added layer of workforce growth ra
 From the above we can see that the ratio between workforce growth and overall gdp growth has been uneven over time. Now lets *subtract* the workforce growth rate from the GDP growth rate and chart the resulting figures. 
 #
 
-<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/real_growth_with_trendline.png" width="698" height="345">
+<img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/real_growth_with_trendline.png" width="703" height="345">
 ___
 
 ## Predictions
