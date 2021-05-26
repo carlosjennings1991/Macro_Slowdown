@@ -124,7 +124,15 @@ ___
 
 Imagine you own a business. How do you grow your business? Easy - get more customers. If you simply attract more customers, you can grow your business without having to do the difficult tasks of innovating or lowering your costs. 
 
-When it comes to a country like the United States, the easiest way to grow an economy is simply to have more people. Most people become workers, and for a country, workers are your customers. 
+When it comes to a country like the United States, the easiest way to grow an economy is simply to have more people. Even if they aren't in the workforce, everyone spends money. Even babies, since someone is spending a lot of money for them. 
+
+So when it comes to GDP figures, you have to keep population growth in mind. Subtracting workforce growth from gdp growth yields a figure which I call 'Real Growth'. Real Growth better reflects productivity per-capita than headline GDP Growth. 
+
+For starters, lets review the GDP chart below. 
+
+#
+
+
 
 ___
 
