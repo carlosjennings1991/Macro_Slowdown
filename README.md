@@ -193,4 +193,6 @@ When the black death killed 1/3rd of Europe in the middle part of the 14th Centu
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/black_death_and_cash.png">
 
-So for
+#
+
+As damaging as Covid may be, it's not the Black Death. The bigger population reducing trend is declining fertility rates triggering population decline. For the younger workers in that environment, their bargaining power will also be higher. 
