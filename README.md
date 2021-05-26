@@ -102,6 +102,8 @@ Now let's see what, if any, correlation there is between economic growth and lab
 
 <img src="https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/Charts/labor_participation_and_gdp_growth.png" width="738" height="345">
 
+YoY growth rates can be erratic, so those are represented by the highly opaque red line in the background. The solid red line shows the 1950-2020 trendline, which is slowly decreasing. At first once might conclude that there is no correlation between growth rates and labor-force participation rates. 
+
 ___
 
 ### Real Growth Rates
