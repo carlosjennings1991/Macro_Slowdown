@@ -12,7 +12,7 @@ ___
 
 ### Sources: 
 
-Source Data Here - 
+Source Data Here - https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/econ_data_modified.csv
 <br>
 Analysis & Charts Here - https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/econ_project.ipynb
 <br>
