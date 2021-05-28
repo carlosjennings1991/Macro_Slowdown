@@ -14,7 +14,7 @@ ___
 
 Source Data Here - 
 <br>
-Analysis & Charts Here - 
+Analysis & Charts Here - https://github.com/carlosjennings1991/Macro_Slowdown/blob/main/econ_project.ipynb
 <br>
 Graph Dashboards Here - https://public.tableau.com/profile/carlos.jennings#!/
 ___
